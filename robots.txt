@@ -1,0 +1,9 @@
+#
+# robots.txt for PHPWind
+# Version 8.7
+#
+
+User-agent: *
+Disallow: /js/
+Disallow: /images/
+Disallow: /css/
